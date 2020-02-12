@@ -1,4 +1,6 @@
 # apache
 
-TODO: Enter the cookbook description here.
+Apache Cookbook - Chapter One
+
+Linkedin Course
 
